@@ -1,3 +1,6 @@
-[submodule "assets/sub1"]
-  path = assets/sub1
-  url = git@github.com:cpprepos/sub1.git
+[submodule "third_party/sub1"]
+	path = third_party/sub1
+	url = git@github.com:cpprepos/sub1.git
+[submodule "third_party/sub2"]
+	path = third_party/sub2
+	url = git@github.com:cpprepos/sub2.git
